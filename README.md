@@ -17,5 +17,5 @@ The frontend Implementation of the model on this
 Click below video to play 
 [![Link](https://img.youtube.com/vi/CueAjrSMQlM/0.jpg)](https://www.youtube.com/watch?v=CueAjrSMQlM)
 
-Below video is another (1/5 th part)
+Dashboard video is another (1/5 th part)
 ![Demo](https://github.com/AditiThirdEye/K.H.E.T.I/blob/main/Dashboard.gif)
