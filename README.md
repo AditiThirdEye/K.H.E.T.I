@@ -9,7 +9,7 @@ The Machine Learning and AI models implementation video with some explanation on
 5) Dashboard weather forecast (clouds, temp, precipitation)
 
 
-Click below video to play explanation for (3/5 th part)
+Click below video to play explanation for (3/5 th part)<br>
 [![Link](https://img.youtube.com/vi/gwWnlqiuTC0/0.jpg)](https://www.youtube.com/watch?v=gwWnlqiuTC0)
 
 The frontend Implementation of the model on this 
