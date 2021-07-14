@@ -14,7 +14,7 @@ Click below video to play explanation for (3/5 th part)
 
 The frontend Implementation of the model on this 
 (Fertilizer+Crop recommendations, weed detection, plant disease detection)
-Click below video to play 
+Click below video to play <br>
 [![Link](https://img.youtube.com/vi/CueAjrSMQlM/0.jpg)](https://www.youtube.com/watch?v=CueAjrSMQlM)
 
 Dashboard video is another (1/5 th part)
