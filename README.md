@@ -19,3 +19,6 @@ Click below video to play
 
 Dashboard video is another (1/5 th part)
 ![Demo](https://github.com/AditiThirdEye/K.H.E.T.I/blob/main/Dashboard.gif)
+
+
+https://github.com/rranand/KHETI
