@@ -1,0 +1,20 @@
+Waghivali
+Maharashtra 421401
+19.298542, 73.337505
+https://www.google.com/maps/place/19%C2%B017'54.8%22N+73%C2%B020'15.0%22E/@19.2979041,73.3363744,516m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d19.298542!4d73.337505
+
+OpenWeatherAPI
+https://api.openweathermap.org/data/2.5/weather?lat=19.298542&lon=73.337505&appid=72248ab73ae4b26739413f58faadb478
+Weather bit
+40c6692cc0f34151a202808501c72063
+
+Google Maps API Key:
+AIzaSyBqx43ZjNnyFAveRFlCqJUY_yj_YOUJcYs
+
+Farm co-ordinates
+https://towardsdatascience.com/a-quick-introduction-to-google-earth-engine-c6a608c5febe
+https://developers.google.com/earth-engine/datasets
+https://towardsdatascience.com/satellite-imagery-access-and-analysis-in-python-jupyter-notebooks-387971ece84b
+https://medium.com/plotly/how-to-create-2d-and-3d-interactive-weather-maps-in-python-and-r-77ddd53cca8
+https://colab.research.google.com/drive/1aIS3A63fzPpaZYMmFzHYBlZUwHW8dPsh#scrollTo=cxovkSRLPOPU
+
